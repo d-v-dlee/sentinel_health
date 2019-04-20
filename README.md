@@ -2,7 +2,8 @@
 
 Improving patient health, providing better care, and reducing healthcare costs.
 
-![Sentinel](sentinal.jpg)
+![Sentinel Logo](/sentinal.jpg)
+Format: ![Alt Text](url)
 
 ### Set up
 
